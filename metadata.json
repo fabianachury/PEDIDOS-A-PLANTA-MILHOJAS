@@ -1,0 +1,5 @@
+{
+  "name": "DESPACHO DE PEDIDOS A PLANTA MILHOJAS VILLA DE LEYVA",
+  "description": "An application for a bakery plant to receive, manage, and dispatch orders from various bakery store locations. Each store has its own view to place and track orders.",
+  "requestFramePermissions": []
+}
